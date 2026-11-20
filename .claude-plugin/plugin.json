@@ -1,0 +1,10 @@
+{
+  "name": "startup-customer-lab",
+  "displayName": "Startup Customer Lab",
+  "description": "Two tools for founders by Luigi Lugmayr: a simulated customer panel that reacts to your offer, price or message, and a sourced market entry check for the US, UK and DACH.",
+  "version": "1.0.0",
+  "author": { "name": "Luigi Lugmayr", "url": "https://i4u.consulting/" },
+  "homepage": "https://i4u.consulting/startup-playbook/",
+  "license": "LicenseRef-StartupCustomerLab",
+  "keywords": ["startup", "marketing", "customer research", "go-to-market", "market entry", "DACH"]
+}
